@@ -2,7 +2,7 @@
 
 To submit this problem:
 
-* In your Codespace, run `submit50 PROBLEM`, replacing `PROBLEM` with "mario-more".
+* In your Codespace, run `submit50 PROBLEM`, replacing `PROBLEM` with `mario-more`.
 
 If you're getting an error such as:
 
