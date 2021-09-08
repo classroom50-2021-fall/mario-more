@@ -4,6 +4,15 @@ To submit this problem:
 
 * In your Codespace, run `submit50 PROBLEM`, replacing `PROBLEM` with "mario-more".
 
+If you're getting an error such as:
+
+```
+Please make sure you have the correct access rights and the repository exists.
+Failed to clone "git@github.com:/classroom50/mario-more-USERNAME".
+```
+
+Make sure you've accepted the assignment on GitHub classroom! https://classroom.github.com/a/UL1ej0oj
+
 Once you have submitted this problem, your score will be available on GitHub after a few minutes. To view your score:
 
 * On the GitHub page https://github.com/classroom50/mario-more-USERNAME where `USERNAME` is your GitHub username, click the **Actions** tab.
