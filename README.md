@@ -1,4 +1,4 @@
-# Mario (Less)
+# Mario (More)
 
 To submit this problem:
 
